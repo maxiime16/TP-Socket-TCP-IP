@@ -1,3 +1,6 @@
+# Maxime DEVILLEPOIX
+# https://pbs.twimg.com/ext_tw_video_thumb/1270816460072517635/pu/img/5CikunWIYoEewo4i.jpg
+
 import socket
 import datetime
 
